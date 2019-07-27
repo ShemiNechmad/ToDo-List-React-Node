@@ -1,3 +1,5 @@
+All files of the project are included, except the node modules directory.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
